@@ -1,0 +1,15 @@
+# Arduino build files
+*.o
+*.elf
+*.hex
+*.bin
+
+# Temporary editor files
+*.swp
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
