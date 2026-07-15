@@ -87,7 +87,7 @@ Features
 ## Repository Structure
 
 ```
-arduino-lora-fox-hunt/
+Fox_Hunt/
 
 ├── beacon/
 ├── receiver/
